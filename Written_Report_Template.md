@@ -19,9 +19,16 @@ Below is a visualization showing the monthly number of successful, failed, and c
 ![Theater_Outcomes_vs_Launch.png](https://github.com/tylerwe19/kickstarter_module1_challenge/blob/main/resources/Theater_Outcomes_vs_Launch.png)
 ---
 
-
-
 ### Analysis of Outcomes Based on Goals
+
+Below is a visualization that shows success/fail rates of play campaigns across various ranges of goals established. 
+
+![Outcomes_vs_Goals.png](https://github.com/tylerwe19/kickstarter_module1_challenge/blob/main/resources/Outcomes_vs_Goals.png)
+---
+
+ * Campaigns that set goals of less than $15K tend to experience more success than campaigns that set goals above $15K. The success rate is higher than the fail rate for campaigns that set goals between $35K-45K; however, the number of campaigns in this goal range is very small. There are hundreds of play campaigns that set goals of less than $15K and a majority succeed in attaining their goal, which leads to the confident conclusion/recommendation that it is best to set goals below $15K.
+
+
 
 ### Challenges and Difficulties Encountered
 
