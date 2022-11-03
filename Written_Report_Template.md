@@ -27,8 +27,10 @@ Below is a visualization that shows success/fail rates of play campaigns across 
 ---
 
  * Campaigns that set goals of less than $15K tend to experience more success than campaigns that set goals above $15K. The success rate is higher than the fail rate for campaigns that set goals between $35K-45K; however, the number of campaigns in this goal range is very small. There are hundreds of play campaigns that set goals of less than $15K and a majority succeed in attaining their goal, which leads to the confident conclusion/recommendation that it is best to set goals below $15K.
+---
 
-
+To dive deeper into the data please go to the Kickstarter Excel Workbook:
+[kickstarter_challenge](https://github.com/tylerwe19/kickstarter_module1_challenge/blob/main/Kickstarter_Challenge.xlsx).
 
 ### Challenges and Difficulties Encountered
 
