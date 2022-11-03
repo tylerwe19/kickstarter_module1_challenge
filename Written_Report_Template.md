@@ -27,19 +27,23 @@ Below is a visualization that shows success/fail rates of play campaigns across 
 ---
 
  * Campaigns that set goals of less than $15K tend to experience more success than campaigns that set goals above $15K. The success rate is higher than the fail rate for campaigns that set goals between $35K-45K; however, the number of campaigns in this goal range is very small. There are hundreds of play campaigns that set goals of less than $15K and a majority succeed in attaining their goal, which leads to the confident conclusion/recommendation that it is best to set goals below $15K.
----
 
 To dive deeper into the data please go to the Kickstarter Excel Workbook:
 [kickstarter_challenge](https://github.com/tylerwe19/kickstarter_module1_challenge/blob/main/Kickstarter_Challenge.xlsx).
 
+---
+
 ### Challenges and Difficulties Encountered
+#### Challenges
+ * I had a little difficulty initially figuring out the COUNTIFS function to count the number of campaigns per Goal Range. 
+ * I had some challenges figuring out exactly what I wanted to conclude about the data. The Theater Outcome Based on Launch Date graph was able to show the months that had the highest volume of theater campaigns, but it could not help us compare success and fail rates. In order to determine the most successful months, I had to create the success/fail rates off to the side to determine effective months.
 
-## Results
+#### Limitations of this Data
+ * The data is a little stale, with the most recent End Date occurring in 2017 which is 5 years ago. It would be nice to confirm the observations above with more recent data.
+ * This data does not have demographic information about the backers or intended backers. It would be interesting to have data about the backers who pledged money for each campaign and compare Louise's targeted backer for Fever to a theater production that was most similar to her play.
 
-- What are two conclusions you can draw about the Outcomes based on Launch Date?
+### Other Possible Tables/Graphs
+ * I would be very interested in revisualizing the "Outcomes Baased on Goal" graph. I would like to see a Donut Chart for each Goal Range, which would enable us to see the Success and Fail Rate for each Goal Range and in the center would display the total number of campaigns per Goal Range. The number of campaigns about the Goal of $25K become very small leading me to hesitate about drawing conclusions on this data. There are hundreds of campaigns below the Goal of $25K which gives me more confidence in drawing conclusions about these campaigns.
+ * I think it would be interesting to see a clustered bar graph of Avg Donation for each Goal Range and each Goal Range would be broken by success/fail, so we could see the Avg Donation for Successful and Failed campaigns whithin each goal range. 
 
-- What can you conclude about the Outcomes based on Goals?
-
-- What are some limitations of this dataset?
-
-- What are some other possible tables and/or graphs that we could create?
+---
