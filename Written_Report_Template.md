@@ -43,7 +43,7 @@ To dive deeper into the data please go to the Kickstarter Excel Workbook:
  * This data does not have demographic information about the backers or intended backers. It would be interesting to have data about the backers who pledged money for each campaign and compare Louise's targeted backer for Fever to a theater production that was most similar to her play.
 
 ### Other Possible Tables/Graphs
- * I would be very interested in revisualizing the "Outcomes Baased on Goal" graph. I would like to see a Donut Chart for each Goal Range, which would enable us to see the Success and Fail Rate for each Goal Range and in the center would display the total number of campaigns per Goal Range. The number of campaigns about the Goal of $25K become very small leading me to hesitate about drawing conclusions on this data. There are hundreds of campaigns below the Goal of $25K which gives me more confidence in drawing conclusions about these campaigns.
+ * I would be very interested in revisualizing the "Outcomes Based on Goal" graph. I would like to see a Donut Chart for each Goal Range, which would enable us to see the Success and Fail Rate for each Goal Range and in the center would display the total number of campaigns per Goal Range. The number of campaigns above the Goal of $25K become very small leading me to hesitate about drawing conclusions on this data. There are hundreds of campaigns below the Goal of $25K which gives me more confidence in drawing conclusions about these campaigns.
  * I think it would be interesting to see a clustered bar graph of Avg Donation for each Goal Range and each Goal Range would be broken by success/fail, so we could see the Avg Donation for Successful and Failed campaigns whithin each goal range. 
 
 ---
