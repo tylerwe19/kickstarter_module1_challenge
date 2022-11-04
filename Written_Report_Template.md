@@ -13,8 +13,8 @@ This analysis will help Louise compare the performance of her play, Fever, to th
 ### Analysis of Outcomes Based on Launch Date
 
 Below is a visualization showing the monthly number of successful, failed, and canceled theater campaigns from 2009 to 2017. You'll notice:
- * Theater campaigns typically experience the most success during May. In fact, April-July is a stretch of months where campaigns see higher success rates.
- * During the fall and winter, especially beginning at October, theater campaigns experience less success. Surprisingly, February is an abnormal winter month where theater productions have historically reaped more success. Additional research should be conducted to understand why February experiences this success.
+ 1. Theater campaigns typically experience the most success during May. In fact, April-July is a stretch of months where campaigns see higher success rates.
+ 2. During the fall and winter, especially beginning at October, theater campaigns experience less success. Surprisingly, February is an abnormal winter month where theater productions have historically reaped more success. Additional research should be conducted to understand why February experiences this success.
 
 ![Theater_Outcomes_vs_Launch.png](https://github.com/tylerwe19/kickstarter_module1_challenge/blob/main/resources/Theater_Outcomes_vs_Launch.png)
 ---
